@@ -1,0 +1,6 @@
+Light: #
+Accent_1: #
+Accent_2: #
+Accsent_3: #
+Text_1: #
+Text_2: #
